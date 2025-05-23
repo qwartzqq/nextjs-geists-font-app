@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/src/app/animations.css"],"sourcesContent":["@keyframes float {\n  0% {\n    transform: translateY(0px);\n  }\n  50% {\n    transform: translateY(-10px);\n  }\n  100% {\n    transform: translateY(0px);\n  }\n}\n\n.animate-float {\n  animation: float 6s ease-in-out infinite;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;AAYA"}}]
+}
